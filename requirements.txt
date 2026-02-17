@@ -1,0 +1,25 @@
+# Medical AI Chatbot - Dependencies
+# Python 3.9+ recommended
+
+# LLM & RAG
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-groq>=0.1.0
+
+# Vector store (FAISS - local)
+faiss-cpu>=1.7.4
+
+# Embeddings (HuggingFace SentenceTransformers)
+sentence-transformers>=2.2.0
+
+# Data loading & text processing
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# Web UI
+streamlit>=1.28.0
+
+# Optional: for alternate vector DBs (uncomment if needed)
+# pinecone-client>=2.2.4
+# weaviate-client>=4.0.0

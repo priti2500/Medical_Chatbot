@@ -1,0 +1,52 @@
+[
+  {
+    "category": "symptoms",
+    "question": "What are common symptoms of flu?",
+    "answer": "Common flu symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue. Some people may have vomiting and diarrhea. Symptoms usually appear 1-4 days after exposure."
+  },
+  {
+    "category": "symptoms",
+    "question": "What are signs of dehydration?",
+    "answer": "Signs of dehydration include thirst, dark yellow urine, dry mouth, dizziness, fatigue, and less frequent urination. In children, watch for few or no tears when crying and sunken eyes. Drink fluids and seek care if severe."
+  },
+  {
+    "category": "symptoms",
+    "question": "When should I see a doctor for a headache?",
+    "answer": "See a doctor for a headache if it is sudden and severe, follows an injury, is accompanied by fever, stiff neck, confusion, or vision changes, or if headaches are new or worsening. Most headaches are tension or migraine and can be managed at home."
+  },
+  {
+    "category": "medication",
+    "question": "Can I take ibuprofen with aspirin?",
+    "answer": "Taking ibuprofen and aspirin together can increase the risk of stomach bleeding and other side effects. Unless your doctor has advised it, avoid combining them. Use one at a time and follow dosing instructions."
+  },
+  {
+    "category": "medication",
+    "question": "What should I do if I miss a dose of my medicine?",
+    "answer": "If you miss a dose, take it as soon as you remember unless it is almost time for the next dose. Then skip the missed dose. Do not double the next dose. For critical medications, check the leaflet or ask your pharmacist or doctor."
+  },
+  {
+    "category": "general",
+    "question": "How much water should I drink daily?",
+    "answer": "General guidance is about 8 glasses (around 2 liters) per day, but needs vary with age, activity, and climate. Thirst and light yellow urine are good indicators. Increase intake in heat or when exercising."
+  },
+  {
+    "category": "general",
+    "question": "What is normal blood pressure?",
+    "answer": "Normal blood pressure is typically under 120/80 mmHg. Elevated is 120-129/under 80. High blood pressure (hypertension) is 130/80 or higher. Have it checked regularly and follow your doctor's advice for your situation."
+  },
+  {
+    "category": "symptoms",
+    "question": "What could cause chest pain?",
+    "answer": "Chest pain can have many causes: heart-related (angina, heart attack), acid reflux, muscle strain, anxiety, or lung issues. Any new, severe, or persistent chest pain should be evaluated by a doctor urgently."
+  },
+  {
+    "category": "medication",
+    "question": "Can I drink alcohol while on antibiotics?",
+    "answer": "With many antibiotics, alcohol can cause unpleasant reactions or reduce effectiveness. With metronidazole or tinidazole, avoid alcohol completely. For others, check the leaflet or ask your pharmacist. When in doubt, avoid alcohol during treatment."
+  },
+  {
+    "category": "general",
+    "question": "How can I improve my sleep?",
+    "answer": "Keep a regular sleep schedule, avoid caffeine and screens before bed, make your room dark and cool, and avoid large meals late at night. Exercise helps but not right before bed. If sleep problems persist, see a doctor."
+  }
+]
